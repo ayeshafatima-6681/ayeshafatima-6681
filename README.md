@@ -1,81 +1,60 @@
-# Hi there, I'm Ayesha Fatima! 👋
+# Hi, I'm Ayesha Fatima! 👋
 
 ### 🎓 BCA Data Science Student | Aspiring Data Analyst & Data Scientist
 
-I am a BCA Data Science student passionate about transforming real-world data into meaningful insights and building practical, data-driven solutions.
+I'm passionate about exploring real-world data, uncovering meaningful insights, and developing practical solutions using data analytics and machine learning.
 
-My interests include **Data Analytics, Data Science, Machine Learning, and Artificial Intelligence**.
-
-I am currently strengthening my technical skills through hands-on learning and real-world projects.
+Currently strengthening my technical skills through hands-on projects, continuous learning, and real-world problem-solving.
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing a Bachelor's degree in Computer Applications (Data Science)
-- 📊 Interested in Data Analytics, Business Intelligence, and Predictive Modeling
-- 🐍 Building my Python, SQL, and data analysis skills
-- 🌱 Currently learning advanced Python, Machine Learning, and practical data science workflows
-- 🎯 Goal: Gain industry experience through a Data Analytics or Data Science internship
-- 💡 I enjoy exploring unique real-world problems and building useful solutions
+- 🎓 Pursuing **BCA in Data Science**
+- 📊 Interested in **Data Analytics, Data Science, and Artificial Intelligence**
+- 💻 Working on real-world, data-driven projects
+- 🌱 Currently learning advanced Python, SQL, and Machine Learning
+- 🎯 Seeking opportunities to gain practical industry experience
 
 ## 🛠️ Technical Skills
 
-**Programming & Databases:** Python, SQL, C, Java (academic exposure)
+**Programming:** Python, SQL, C, Java (academic exposure)
 
 **Data Analysis:** Pandas, NumPy, Excel
 
-**Visualization:** Matplotlib, Plotly, Streamlit
+**Data Visualization:** Matplotlib, Plotly, Streamlit
 
-**Machine Learning:** Foundational concepts, model training and evaluation
+**Machine Learning:** Fundamentals, model training, and evaluation
 
-**Tools:** Git, GitHub, VS Code, Jupyter Notebook
-
-> I am continuously improving these skills through coursework and hands-on projects.
+**Development Tools:** Git, GitHub, VS Code, Jupyter Notebook
 
 ## 🚀 Featured Project
 
-### 🔎 TENDERTRACE — Public Procurement Decision Intelligence
+### TENDERTRACE — Public Procurement Decision Intelligence
 
-A data analytics project exploring public procurement and tender information using real-world open contracting data.
+A real-world data analytics project focused on analyzing public procurement and tender data to uncover patterns, explore supplier relationships, and support data-driven decisions.
 
-**Technologies:** Python, Pandas, SQLite, Plotly, Streamlit
+**Tech Stack:** Python, Pandas, SQLite, Plotly, Streamlit
 
-**Focus Areas:**
-- Data cleaning and exploratory analysis
-- Public procurement insights
-- Supplier and award analysis
-- Interactive data visualization
-- Data-driven decision support
+**Key Areas:**
+- Data cleaning and exploratory data analysis
+- Supplier and contract award analysis
+- Interactive dashboards and visualizations
+- Data-driven insights and decision support
 
 🔗 [Explore TENDERTRACE](https://github.com/ayeshafatima-6681/TENDERTRACE)
 
 ## 📚 Currently Learning
 
-- Advanced Python programming
-- SQL for data analysis
-- Exploratory Data Analysis
-- Statistics for Data Science
-- Machine Learning fundamentals
-- Professional data science project development
+- Advanced Python and SQL
+- Exploratory Data Analysis and Statistics
+- Machine Learning and Predictive Analytics
+- Real-world Data Science workflows
 
 ## 🎯 Career Interests
 
-- Data Analyst Intern
-- Data Science Intern
-- Business Intelligence Intern
-- AI / Machine Learning Intern
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayeshafatima-6681&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshafatima-6681&layout=compact)
+Data Analytics | Data Science | Business Intelligence | AI & Machine Learning
 
 ---
 
-### 🤝 Let's Connect
-
-I'm interested in learning, collaborating on meaningful projects, and exploring internship opportunities.
-
-⭐ Thanks for visiting my profile!
+*Always learning, building, and improving.*
